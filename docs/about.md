@@ -13,7 +13,7 @@ I'm a 23-year-old engineer who graduated from [Télécom Physique Strasbourg](ht
 
 ## What do I do ?
 
-I worked on a number of [programming projects](https://github.com/EthanAndreas?tab=repositories) in the last few years. The most important ones are the following : the development of a lightweight IP-based communication between field devices, the creation of a [compiler](/projects/sos2mips) or the study and addition of features on the [xv6](https://github.com/EthanAndreas/xv6-os) operating system. Currently, I am working for Siemens company in *Digital Industry Process Automation Measuring Intelligence* department in *Haguenau, France* as a *Software Engineer* in the flowmeter business line.
+I worked on a number of [programming projects](https://github.com/EthanAndreas?tab=repositories) in the last few years. The most important ones are the following : the development of a lightweight IP-based communication between field devices, the creation of a compiler or the study and addition of features on the [xv6](https://github.com/EthanAndreas/xv6-os) operating system. Currently, I am working for Siemens company in *Digital Industry Process Automation Measuring Intelligence* department in *Haguenau, France* as a *Software Engineer* in the flowmeter business line.
 
 ## What do I like?
 
