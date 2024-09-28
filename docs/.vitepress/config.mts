@@ -12,9 +12,9 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About Me', link: '/markdown-examples' },
+      { text: 'About Me', link: '/about' },
       { text: 'Gallery', link: '/markdown-examples' },
-      { text: 'Contact', link: '/markdown-examples' },
+      { text: 'Contact', link: '/contact' },
     ],
 
     sidebar: [
